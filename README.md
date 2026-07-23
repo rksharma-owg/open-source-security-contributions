@@ -29,9 +29,9 @@ testing, CI/CD, and developer tooling.
 | OWASP | www-project-ai-maturity-assessment | Restore the documented toolkit scoring scale and validate formulas | Python, Excel, PDF | [#90](https://github.com/OWASP/www-project-ai-maturity-assessment/pull/90) | Open |
 | OWASP | www-project-promptme | Make Box-based challenge scenarios reproducible with local fixtures | Python, pytest, CI/CD | [#17](https://github.com/OWASP/www-project-promptme/pull/17) | Open |
 | OWASP | PwnzzAI | Use CPU-only PyTorch packaging and reduce the Docker image footprint | Docker, Python, pytest | [#17](https://github.com/OWASP/PwnzzAI/pull/17) | Open |
-| OWASP | www-project-agentic-skills-top-10 | Fail documentation validation when AST frontmatter is missing | Bash, shell testing, GitHub Actions | [#54](https://github.com/OWASP/www-project-agentic-skills-top-10/pull/54) | Open |
+| OWASP | www-project-agentic-skills-top-10 | Fail documentation validation when AST frontmatter is missing | Bash, shell testing, GitHub Actions | [#54](https://github.com/OWASP/www-project-agentic-skills-top-10/pull/54) | CI pending |
 | GenAI Security Project | GenAI-Red-Team-Lab | Preserve assistant tool-call messages before MCP tool results | Python, unittest, MCP | [#52](https://github.com/GenAI-Security-Project/GenAI-Red-Team-Lab/pull/52) | Open |
-| GenAI Security Project | GenAI-Data-Security-Initiative | Detect multiline unbounded LLM retry loops without flagging bounded retries | Python, PCRE2, pytest | [#57](https://github.com/GenAI-Security-Project/GenAI-Data-Security-Initiative/pull/57) | Open |
+| GenAI Security Project | GenAI-Data-Security-Initiative | Detect multiline unbounded LLM retry loops without flagging bounded retries | Python, PCRE2, pytest | [#57](https://github.com/GenAI-Security-Project/GenAI-Data-Security-Initiative/pull/57) | CI pending |
 | Independent | appsec-agent | Restrict environment variables inherited by child processes | TypeScript, Jest | [Compare](https://github.com/yangsec888/appsec-agent/compare/main...rksharma-owg:appsec-agent:codex/isolate-codex-child-environment?expand=1) | Awaiting submission |
 
 ## Focus Areas
